@@ -12,3 +12,7 @@
 
 **funcOfstrokeCount(alphabetArr, alphabetStrokeCountArr, alphabet)**: 문자 정보를 가지는 alphabetArr, 문자 획순를 가지고 있는 alphabet
 StrokeCountArr, 문자인 alphabet를 인자로 받아 alphabet와 같은 alphabetArr에서 찾아서 alphabetStrokeCountArr을 통해 획순을 찾아 더한다.
+
+- 한글을 초성, 중성, 종성으로 나누어서 획순 계산
+- 영어 알파벳 획순 계산
+- 실시간으로(onkeyup) 획순 계산해서 출력
